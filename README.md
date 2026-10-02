@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nafisha-moin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nafisha-moin-07570a1aa/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nafisha-moin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nafisha-moin/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/nafishamoin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nafishamoin" height="30" width="40" /></a>
 </p>
 
@@ -78,5 +78,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafisha-del&show_icons=true&locale=en" alt="nafisha-del" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafisha-del&" alt="nafisha-del" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nafisha-del)](https://github.com/ryo-ma/github-profile-trophy)
